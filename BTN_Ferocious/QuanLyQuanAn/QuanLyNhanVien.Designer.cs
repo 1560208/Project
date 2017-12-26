@@ -256,7 +256,7 @@
             this.button4.Text = "Xóa";
             this.button4.UseVisualStyleBackColor = true;
             // 
-            // label8
+            // Label8
             // 
             this.label8.AutoSize = true;
             this.label8.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
