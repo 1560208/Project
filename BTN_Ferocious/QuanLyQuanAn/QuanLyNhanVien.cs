@@ -13,6 +13,7 @@ namespace QuanLyQuanAn
     public partial class QuanLyNhanVien : Form
     {
         string connectionST = @"Data Source=.\sqlexpress;Initial Catalog=QuanLyQuanAn;Integrated Security=True";
+        //string connectionST = @"Data Source=.\sqlexpress;Initial Catalog=QuanLyQuanAn;Integrated Security=True";
         public QuanLyNhanVien()
         {
             InitializeComponent();
